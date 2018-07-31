@@ -1,1 +1,1 @@
-# Small projects. Experimentation.
+# Small projects. Experimentation and examples.
